@@ -15,6 +15,10 @@ def boardStatus(board):
     print('-+-+-')
     print(board[7] + '|' + board[8] + '|' + board[9])
 
+def resetBoard():
+    for i in range(10):
+        board[i] = ' '
+        
 keys = []
 
 for i in board:
