@@ -8,3 +8,9 @@ Python functionalities used :
 - conditions and loops
 - functions
 - dictionary
+
+### How to run the application?
+- Clone the repository and run the main file in src folder
+- You can use numbers for marking your position on the board. The numbers range from 1-9.
+- When the player is asked if he/she wants a rematch, you need to type in 'y' or 'Y' (along with the apostrophe)
+
